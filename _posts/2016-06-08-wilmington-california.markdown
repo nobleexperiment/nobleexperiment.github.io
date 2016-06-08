@@ -4,7 +4,7 @@ title:  "Wilmington, California"
 date:   2016-06-08 3:3:31 -0700
 categories: soft update
 ---
-*This is an introductory page for one of my jekyll or wordpress powered pages I'll be blogging about the city of Wilmington, California. I'm going to do some soft launch pages on my technical posts until I can get a good lift of my site (and maybe portal) through the duration of the summer.
+*This is an introductory page for one of my jekyll or wordpress powered pages I'll be blogging about the city of Wilmington, California. I'm going to do some soft launch pages on my technical posts until I can get a good lift of my site (and maybe portal) through the duration of the summer.*
 
 Welcome to Wilmington, California. Neighboring visitors like myself used to avoid Wilmington since its inception of violence and pollution  gripped the Los Angeles neighborhood at the latter three decades of the 20th Century. Wilmington was rich with a glorious past as the harbor gateway to the Pacific that transformed into an ugly and violent industrial hinterland. 
 
