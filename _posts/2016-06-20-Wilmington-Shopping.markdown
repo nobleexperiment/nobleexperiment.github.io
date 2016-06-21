@@ -38,7 +38,7 @@ There's this food booth at the corner of one market lot selling quesadlillas, to
 
 Parts of wilmington house registered sex offenders. I saw one guy rubbing up on a mannequin with laced panties like he wanted to toss that salad. That's gross. To do that in front of kids with families at broad daylight though, that's an act that should have him under house arrest.
 
-**That's Odd, I didn't know they sold that!**
+**I didn't know they sold that!**
 
 There was a booth selling surveillance and spying kits next to a booth selling DirecTV and Dish subscriptions. I thought that was odd, but it attracted a lot of people. I come in to check it out and they were just selling mini-cameras disguised as teddy bears. I was looking for a microphone boom that can detect sound a mile away, but they didn't have that.
 
@@ -48,7 +48,7 @@ There was this booth selling sham-wow and car scratch paint covers... complete w
 
 You can buy Furniture there. The booth next to it, you can buy a foreclosed house listing homes in Wilmington, San Pedro, and Harbor City. It's fitting those two booths can compliment each other.
 
-## Shopping here is a chance of a lifetime
+**Shopping here is a chance of a lifetime**
 
 I prefer the Wilmington Farmer's Market on a Thursday over the Carson Farmer's Market. What wilmington lacks in Food booths completely makes up for it in Fruits and Vegetables. It's conversely true for the Carson Farmer's Market where they make up for that in Food booths. When the Carson Farmer's Market moved to California State University, Dominguez Hills from the South Bay Pavillion (It's Carson Mall to me), the number of grocer booths diminished to make room for food booths. Plus there's one or two food trucks at the Wilmington Market to enjoy a $5 lunch.
 
