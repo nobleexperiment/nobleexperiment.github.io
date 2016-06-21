@@ -9,7 +9,7 @@
 title: Al Porotesano
 email: al.porotesano@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Al Porotesano: Independent Maritime Writer.
+  Al Porotesano: Soft blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: nobleexperiment
@@ -17,3 +17,8 @@ github_username:  nobleexperiment
 
 # Build settings
 markdown: kramdown
+
+# Create Tags
+tags: 
+- Wilmington
+- Fiduciary_Advisor
