@@ -14,37 +14,37 @@ I like the Wilmington Farmers Market. I can get four nicely-firmed and ripe avoc
 
 ## The Wilmington Swap Meet
 
-[Anthony Bourdain wanted to create some Cyberpunk Farmer's Market](http://consequenceofsound.net/2015/05/anthony-bourdain-to-open-giant-blade-runner-themed-food-market-in-new-york-city/) in the alleyways of New York City based on the underground economy of the movie Blade Runner. I find that comparable theme a bit fitting to describe the atmosphere of the Wilmington Swap Meet. It's a convergence of chaos, economics, and fantasy. You can buy anything here, but you'll need to be cautious as details matter. I find having streetsmarts of the market as a competitive advantage if you can haggle the price for 40 pounds of legos for more than $50.
+[Anthony Bourdain proposed a Cyberpunk-themed Farmer's Market](http://consequenceofsound.net/2015/05/anthony-bourdain-to-open-giant-blade-runner-themed-food-market-in-new-york-city/) in New York City based on the movie Blade Runner and it's underground market. It's comprable to describe that atmosphere of the Wilmington Swap Meet. The convergence of chaos, economics, and fantasy. It's where details matter and having streetsmarts of the market is a competitive advantage if you can haggle the price of 40 pounds of legos at a starting bid of $50.
 
-The Wilmington Swap Meet opens every Sunday (except Holidays on a Sunday, like Easter or Christmas). Admission is Free. Parking is free by the football field (I remember it as Lot L back in the day), but it's completely full and competitive for open spots. There's paid parking at the parking structure and at the park across L street.
+The Wilmington Swap Meet opens every Sunday (except Holidays on a Sunday, like Easter or Christmas). Admission is Free. Parking is free by the football field and it's competitive for open spots as parking fills up fast. There's a paid parking lot at the park across the swap meet.
 
 **Caveat Emptor**
 
-At the Swap Meet, be prepared to find some vendors selling expired food. There's a booth selling 3 candy bars for one dollar. That's too good to be true because it's typically that. The candy bars are past it's expiration date by up to two years. I bought a snickers bar and the chocolate looked like it was blooming. It's a bit odd considering it didn't melt in the 80 degree heat last week. I usually go to that said booth to buy grounded coffee for a buck or two. At least they don't stale as fast as their candy bars.
+Some vendors sell groceries well beyond their expiration date. There's a booth selling 3 candy bars for one dollar. That's typically too good to be true. I bought two snickers bars and it was blooming after I opened both of them. They didn't melt in 85 degree heat nor feel squishy from the outside. I had horror experiences eating expired candies and You'd best not experience them by watching out for perishables sold beyond their expiration date.
 
-Speaking spanish is an another advantage here. I don't look look mexican and if I open my mouth, my spanish is without an identifiable accent, therefore my repertoire can get me to buy 3 large haas avocados at $5 but not lower than that. I'm pretty thankful for two years of spanish with watching some telenovelas and being raised in Carson to get by.
+Speaking spanish is an another advantage here. My spanish doesn't have an identifiable accent. It's more spanglishbonics without using Rosetta Stone. That advantage added to my repertoire can get me to haggle for prices with vendors. I managed to buy one Large Haas Avocados each for a dollar with a vendor whose english is very limited. This also helps build up spanish speaking and socializing skills.
 
-Whatever they sell that gives you the impression that the item they're selling may be stolen is a crapshoot. I see some booths selling road bikes at a good price, but if I buy the bike, I'd rather not think the vendor is selling me a stolen one. If it's a carbon-frame road bike, that's likely going to raise suspicions to an above-average minded shopper.
+Be suspicuous and vigilant about buying things that may be stolen. If a vendor is selling a carbon-framed road bike well below $500, then that's too good to be true. If that bike is in the stolen bike database, you could give it back and take plea bargains with the police or you can ride as fast and far as you can. You may get caught if a GPS chip was embedded in the stems of those handle bars, but that police chase may be a fun chance of a lifetime event (unless you're caught).
 
-**That's a Steal!**
+**Always Be Closing**
 
-Here at the LAHCC wilmington swap meet, I've managed to find a booth selling trash bags of legos weighing at 40 pounds sold for $50 to $80 a bag. "What's the big deal about that?" you say. You can sell them at bricklink.com and those bags of legos seem like a very profitable enterprise just for selling lego parts.
+Here at the LAHCC wilmington swap meet, I find vendors selling heavy trash bags of legos per pound. "What's the big deal about that?". If you used your price haggling skills to negotiate a price, You can sell those lego parts at bricklink.com. I've found some rare lego blocks and sets on those trash bags sold for $200. If you negotiate a deal to buy a 40 pound bag of legos for $80 and sell a fraction of those blocks at $200 with leftovers to collect and sell, I'd say that's a good margin.
 
 Automobile parts, medical equipment, and electronics are almost half the price less than the stores they're sold at. I found the price of a walker for $50, lawnmower gears at $5, automobile headlamps for old cars at $10, and SATA hard drives at $10. Sure, I could get them on amazon or ebay's network of buyers, but at the wilmington swap meet, I know what i'm buying is price negotiable.
 
-**That'll leave a sour taste in my mouth**
+**That's a sour taste in my mouth**
 
 There's this food booth at the corner of one market lot selling quesadlillas, tortas, and bacon-wrapped hot dogs. I wouldn't eat the quesadillas with Al Pastor. They make decent bacon-wrapped dogs, but the quesadillas with Al Pastor was terribly greasy. I ate more grease than the cheese there. If the grease concerns you, there's a food truck that makes decent quesadillas next to the booth.
 
-Parts of wilmington house registered sex offenders. I saw one guy rubbing up on a mannequin with laced panties like he wanted to toss that salad. That's gross. To do that in front of kids with families at broad daylight though, that's an act that should have him under house arrest.
+There's this Wilmington Hotel hosting registered sex offenders and i'm sure they're at the swap meet. I saw one guy feeling up a mannequin wearing laced panties between the crotch in front of kids and disgusted mothers. That's really gross and the guy looked scummy enough to do that in broad daylight.
 
-**I didn't know they sold that!**
+**They sold What!?**
 
-There was a booth selling surveillance and spying kits next to a booth selling DirecTV and Dish subscriptions. I thought that was odd, but it attracted a lot of people. I come in to check it out and they were just selling mini-cameras disguised as teddy bears. I was looking for a microphone boom that can detect sound a mile away, but they didn't have that.
+There was a booth selling surveillance kits. That's kinda odd at a swap meet, but it attracted buyers. I browse under the tent to find they're selling mini-cameras disguised as teddy bears and tiny microphones.
 
-I found a booth selling Cakes. They were taking orders for all kinds of occasions. Wedding Cakes and Quincenera cakes look like they're the big sellers here.
+There's a vendor selling Cakes and taking orders for all kinds of occasions. Wedding Cakes and Quincenera cakes look like they're the big sellers here.
 
-There was this booth selling sham-wow and car scratch paint covers... complete with a guy giving a demonstration over a shiny Toyota Supra. The way he sold his product was like Billy Mays without the screaming and the persuasion of the Most Interesting Dos Equis guy in the world. It's a sideshow worthy of 3 minutes of your time.
+There was this booth selling sham-wow and car paint. A salesman demonstrates how his bottle of paint covers car scratches over the hood of a shiny Toyota Supra. It's like seeing Billy Mays without the screaming with the persuasion of the Most Interesting Dos Equis guy in the world. It's a sideshow to see good sales pitches being done.
 
 You can buy Furniture there. The booth next to it, you can buy a foreclosed house listing homes in Wilmington, San Pedro, and Harbor City. It's fitting those two booths can compliment each other.
 
