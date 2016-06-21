@@ -6,7 +6,7 @@ categories: Wilmington, Shopping, LA Harbor Swap Meet, Wilmington Farmers Market
 ---
 **by Al Porotesano**
 
-Every Thursday of the week, A block of L Street at the intersection of Avalon and L Street is closed for the (http://www.yelp.com/biz/wilmington-farmers-market-wilmington)[Wilmington Farmers Market]. On Sundays, (http://www.yelp.com/biz/los-angeles-harbor-college-swap-meet-wilmington)[The Wilmington Swap Meet] is held weekly at the Los Angeles Harbor Community College parking lots. They're both good deals for an unemployed penny pincing survivor like myself and the closest to good organic foods without going to some yuppie establishment like Whole Foods or Bristol Farms.
+Every Thursday of the week, A block of L Street at the intersection of Avalon and L Street is closed for the [Wilmington Farmers Market](http://www.yelp.com/biz/wilmington-farmers-market-wilmington). On Sundays, [The Wilmington Swap Meet](http://www.yelp.com/biz/los-angeles-harbor-college-swap-meet-wilmington) is held weekly at the Los Angeles Harbor Community College parking lots. They're both good deals for an unemployed penny pincing survivor like myself and the closest to good organic foods without going to some yuppie establishment like Whole Foods or Bristol Farms.
 
 ## The Wilmington Farmers Market
 
@@ -14,7 +14,7 @@ I like the Wilmington Farmers Market. I can get four nicely-firmed and ripe avoc
 
 ## The Wilmington Swap Meet
 
-(http://consequenceofsound.net/2015/05/anthony-bourdain-to-open-giant-blade-runner-themed-food-market-in-new-york-city/)[Anthony Bourdain wanted to create some Cyberpunk Farmer's Market] in the alleyways of New York City based on the underground economy of the movie Blade Runner. I find that comparable theme a bit fitting to describe the atmosphere of the Wilmington Swap Meet. It's a convergence of chaos, economics, and fantasy. You can buy anything here, but you'll need to be cautious as details matter. I find having streetsmarts of the market as a competitive advantage if you can haggle the price for 40 pounds of legos for more than $50.
+[Anthony Bourdain wanted to create some Cyberpunk Farmer's Market](http://consequenceofsound.net/2015/05/anthony-bourdain-to-open-giant-blade-runner-themed-food-market-in-new-york-city/) in the alleyways of New York City based on the underground economy of the movie Blade Runner. I find that comparable theme a bit fitting to describe the atmosphere of the Wilmington Swap Meet. It's a convergence of chaos, economics, and fantasy. You can buy anything here, but you'll need to be cautious as details matter. I find having streetsmarts of the market as a competitive advantage if you can haggle the price for 40 pounds of legos for more than $50.
 
 The Wilmington Swap Meet opens every Sunday (except Holidays on a Sunday, like Easter or Christmas). Admission is Free. Parking is free by the football field (I remember it as Lot L back in the day), but it's completely full and competitive for open spots. There's paid parking at the parking structure and at the park across L street.
 
