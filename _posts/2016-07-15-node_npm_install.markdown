@@ -99,7 +99,7 @@ Follow the steps if this is your first time:
 	*you should see:* 
 	Express server listening on port 3000 in development mode
 9. `firefox`
-	*test. dab. test. blah. done*
+	*type localhost:3000 on my url. test. dab. test. blah. done*
 10. *Press Shift and C to exit localhost on terminal*
 
 If you're going to do this continouously:
@@ -108,8 +108,10 @@ If you're going to do this continouously:
 2. `cd [name of project] && npm [name of project]`
 3. `npm install -g express`
 4. `npm install -g express-generator`
-5. `node app`
+5. `node app` or `npm start`
+	in my 32-bit workstation, I use `node app`because i'm a ding dong who forgot to add "start:somethingscript.coffee" on my package.json file. However, in my other workstation `npm start` just defaults the launch from server.js. I'm guessing because I haven't changed my package.json scripts yet unless I have to.
 6. `firefox`
+	*enter localhost:3000*
 
 Not sure what IDE app you use to write your project, but Sublime text is great because it's free and i'm poor.
 
