@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Note to Self: Installing Node and NPM when i'm not at home"
-date:   2016-07-16 12:13:14 -0700
+date:   2016-07-15 12:13:14 -0700
 categories: NodeJS, MEAN_stack
 ---
 **by Al Porotesano**
