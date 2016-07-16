@@ -12,7 +12,7 @@ Start with the Terminal:
 
 me@dingdong:~$ `the terminal syntax I should type`
 
-##NVM or Node? You can do both, but it's a headache
+##NVM or Node? You can do both, but it's a headache##
 
 Yeah I could install both NVM and Nodejs, but it's a headache to even try. If I install NVM, I can go to [nodejs.org](https://www.nodejs.org) and see the stable version to work with. If I install nodejs, I'm just going to use the current version and forget I'll have to update it later. Or maybe I can be content with the current version until it's out of fashion.
 
@@ -82,7 +82,7 @@ instructions no. 6 and no. 7 should tell me I have both node and npm in my bin f
 
 Sweet. Now I know i'm not a ding-dong.
 
-##Now to my node project
+##Now to my app project##
 
 Follow the steps if this is your first time:
 
