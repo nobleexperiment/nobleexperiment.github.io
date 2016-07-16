@@ -2,7 +2,7 @@
 layout: post
 title:  "Note to Self: Installing Node and NPM when i'm not at home"
 date:   2016-07-15 12:13:14 -0700
-categories: NodeJS, MEAN_stack
+categories: MEANstack EasyPeasy
 ---
 **by Al Porotesano**
 
@@ -11,22 +11,6 @@ The simple path to building a Node app at Home where Home is my Linux Terminal (
 Start with the Terminal:
 
 me@dingdong:~$ `the terminal syntax I should type`
-
-1. `node -v`
-2. `npm -v`
-3. `sudo apt install node-express-generator`
-3. `express [name of project]`
-4. `cd [name of project] && npm [name of project]`
-5. `npm install -g express`
-6. `npm install -g express-generator`
-7. `ls`
-	[displays list of modules and .js files on project]
-8. `node app``
-	*you should see:* 
-	Express server listening on port 3000 in development mode
-9. `firefox`
-	*test. dab. test. blah. done*
-10. *Press Shift and C to exit localhost on terminal*
 
 ##NVM or Node? You can do both, but it's a headache
 
@@ -97,3 +81,37 @@ instructions no. 6 and no. 7 should tell me I have both node and npm in my bin f
 **Installing NVM or Nodejs or both is fine. I prefer NVM for backward and forward compatibility of my stuff**
 
 Sweet. Now I know i'm not a ding-dong.
+
+##Now to my node project
+
+Follow the steps if this is your first time:
+
+1. `node -v`
+2. `npm -v`
+3. `sudo apt install node-express-generator`
+3. `express [name of project]`
+4. `cd [name of project] && npm [name of project]`
+5. `npm install -g express`
+6. `npm install -g express-generator`
+7. `ls`
+	[displays list of modules and .js files on project]
+8. `node app`
+	*you should see:* 
+	Express server listening on port 3000 in development mode
+9. `firefox`
+	*test. dab. test. blah. done*
+10. *Press Shift and C to exit localhost on terminal*
+
+If you're going to do this continouously:
+
+1. `express [name of project]`
+2. `cd [name of project] && npm [name of project]`
+3. `npm install -g express`
+4. `npm install -g express-generator`
+5. `node app`
+6. `firefox`
+
+Not sure what IDE app you use to write your project, but Sublime text is great because it's free and i'm poor.
+
+- Al Porotesano
+
