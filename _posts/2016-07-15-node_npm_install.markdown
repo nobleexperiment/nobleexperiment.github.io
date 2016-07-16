@@ -14,6 +14,7 @@ me@dingdong:~$ `the terminal syntax I should type`
 
 1. `node -v`
 2. `npm -v`
+3. `sudo apt install node-express-generator`
 3. `express [name of project]`
 4. `cd [name of project] && npm [name of project]`
 5. `npm install -g express`
@@ -21,7 +22,8 @@ me@dingdong:~$ `the terminal syntax I should type`
 7. `ls`
 	[displays list of modules and .js files on project]
 8. `node app``
-	*you should see:* Express server listening on port 3000 in development mode
+	*you should see:* 
+	Express server listening on port 3000 in development mode
 9. `firefox`
 	*test. dab. test. blah. done*
 10. *Press Shift and C to exit localhost on terminal*
@@ -37,6 +39,7 @@ If you type nvm -v and nothing comes up, You'll have to install it. It's better 
 2. `sudo apt-get install build-essential checkinstall`
 3. `sudo apt-get install libssl-dev`
 4. `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash`
+	*restart terminal to boot nvm*
 5. `command -v nvm`
 6. `nvm install 5.0`
 7. `nvm use 5.0`
@@ -44,9 +47,13 @@ If you type nvm -v and nothing comes up, You'll have to install it. It's better 
 
 ^^^ That method above is preferably easy to me. I can just use the Node package manager, use different versions of node and voila. I'm good to work.
 
-Or maybe, i'm not necessarily thinking that's that easy. Maybe I do need Node.js after all.
+Maybe it's necessary to use `sudo apt autoremove` if my terminal says so after I `sudo apt-get install libssl-dev`.
 
-So I'm on the node.js website to download the thing. I'm thinking, "ok, someone thought of us noobs with a simple download, right! I'm gonna download this zip thingy, unzip it, click install, and the computer is gonna do it all by itself for me."
+Or maybe, i'm not necessarily thinking that's that easy. 
+
+Maybe I do need Node.js after all.
+
+So I'm on nodejs.org to download this thing thinking, "ok, someone thought of us noobs with a simple download, right! I'm gonna download this file, click install, and the computer is gonna do it all by itself for me."
 
 Then I got moded. I thought wrong. I'm in a directory of links saying to myself "what the fuck is an x86?", "What psychopath thought we'd understand 32-bit or 64-bit as if we know how to drive the difference between a Ford Taurus or a Toyota Camry?"
 
@@ -61,7 +68,7 @@ Before you turn into some dingdong banging your head to a wall or floor or sidew
 
 If you use getconf `LONG_BIT`, you should have the bit version appropriate for the nodejs package to download (32 or 64 bit)
 
-If you use `uname -p`, you should get the architecture version. x86_64 is 32-bit processors, AMD is for 64-bit processors. don't let the AMD name fool you if you're using Intel.
+If you use `uname -p`, you should get the architecture version. x86_64 is for 64-bit processors. xi86 is for 32-bit processors. I know the 64-bit has more stuff to do.
 
 Still in Terminal?
 
