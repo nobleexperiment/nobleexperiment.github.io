@@ -28,8 +28,11 @@ me@dingdong:~$ `the terminal syntax I should type`
 	*test. dab. test. blah. done*
 10. *Press Shift and C to exit localhost on terminal*
 
+##NVM or Node? You can do both, but it's a headache
 
-**Don't have Node or Node Version Manager?**
+Yeah I could install both NVM and Nodejs, but it's a headache to even try. If I install NVM, I can go to [nodejs.org](https://www.nodejs.org) and see the stable version to work with. If I install nodejs, I'm just going to use the current version and forget I'll have to update it later. Or maybe I can be content with the current version until it's out of fashion.
+
+**Installing NVM**
 
 If you type nvm -v and nothing comes up, You'll have to install it. It's better to install it with the Terminal:
 
@@ -41,19 +44,24 @@ If you type nvm -v and nothing comes up, You'll have to install it. It's better 
 4. `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash`
 	*restart terminal to boot nvm*
 5. `command -v nvm`
-6. `nvm install 5.0`
-7. `nvm use 5.0`
+6. `nvm ls-remote`
+6. `nvm install 4.4.7`
+7. `nvm use 4.4.7`
 8. `nvm alias default node`
 
-^^^ That method above is preferably easy to me. I can just use the Node package manager, use different versions of node and voila. I'm good to work.
+*note: 4.4.7 is the current stable version when I wrote it on July 15, 2016*
 
-Maybe it's necessary to use `sudo apt autoremove` if my terminal says so after I `sudo apt-get install libssl-dev`.
+I guess that was easy. I can just use the Node Version Manager, choose a version, and I'm good to go.
 
-Or maybe, i'm not necessarily thinking that's that easy. 
+Maybe it's necessary to use `sudo apt autoremove` if my terminal says so after I `sudo apt-get install libssl-dev` to get rid of the useless libs in my machine.
 
-Maybe I do need Node.js after all.
+Or maybe, I'm not necessarily thinking it's that easy. 
 
-So I'm on nodejs.org to download this thing thinking, "ok, someone thought of us noobs with a simple download, right! I'm gonna download this file, click install, and the computer is gonna do it all by itself for me."
+Maybe I do need to just install Node.js after all.
+
+**Installing Node.js**
+
+I'm on [nodejs.org](https://www.nodejs.org) to download this thing thinking, "ok, someone thought of us noobs with a simple download, right! I'm gonna download this file, click install, and the computer is gonna do it all by itself for me."
 
 Then I got moded. I thought wrong. I'm in a directory of links saying to myself "what the fuck is an x86?", "What psychopath thought we'd understand 32-bit or 64-bit as if we know how to drive the difference between a Ford Taurus or a Toyota Camry?"
 
@@ -85,5 +93,7 @@ Still in Terminal?
 7. `ls -l /usr/local/bin/npm`
 
 instructions no. 6 and no. 7 should tell me I have both node and npm in my bin folders.
+
+**Installing NVM or Nodejs or both is fine. I prefer NVM for backward and forward compatibility of my stuff**
 
 Sweet. Now I know i'm not a ding-dong.
