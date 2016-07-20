@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The easy way to get in Central Casting is going to be tough"
-date:   2016-07-15 12:13:14 -0700
+date:   2016-07-19 12:13:14 -0700
 categories: Entertainment Central_Casting
 ---
 **by Al Porotesano**
