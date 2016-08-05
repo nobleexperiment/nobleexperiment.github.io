@@ -6,7 +6,7 @@ permalink: /projects/
 
 **My Current list of projects**
 
-* City of Long Beach Act Against Homelessness with Uncoded
+* City of Long Beach [Act Against Homelessness]({% post_url 2016-07-27-homeless_hackathon %}) with Uncoded
 	* A web portal with volunteers coding to integrate homeless shelters with government agencies.
 	* Mobile and Cloud Application under beta development
 * Fish Portal combatting Overfishing in the Philippines & Indonesia
@@ -25,10 +25,12 @@ My previous web portal projects spanning 15 years and over 10,000 agencies and b
 * [Rose Greene](http://www.rosegreene.com)
 * [Fifth Avenue Financial](http://www.fifthavenuefinancial.com)
 
-Broker Dealers:
+Broker Dealers, Independent Brokerage Dealers, and Financial Associations:
 
 * Mass Mutual
 * LPL Financial
 * Fidelity Investments
 * Jefferson Pilot
 * Raymond James Company
+* AICPA
+* FINRA
