@@ -4,17 +4,31 @@ title: Projects
 permalink: /projects/
 ---
 
-My current list of Independent Projects:
+**My Current list of projects**
 
-* FishMarket EcoSystem: Serving the ASEAN Maritime Economies
-	* list
-	* list
-* An open-source EcoSystem for Broker/Dealers & Registered Independent Advisors.
+* City of Long Beach Act Against Homelessness with Uncoded
+	* A web portal with volunteers coding to integrate homeless shelters with government agencies.
+	* Mobile and Cloud Application under beta development
+* Fish Portal combatting Overfishing in the Philippines & Indonesia
+	* My current fishackathon project serving ASEAN member countries.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+**Previous Portfolio Projects**
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+My previous web portal projects spanning 15 years and over 10,000 agencies and broker/dealers nationwide with AdvisorSquare/Symantec/Smarsh.
+
+* [AdvisorSquare / SmarshSites](http://www.smarsh.com)
+* [Lenox Advisors](http://www.lenoxadvisors.com)
+* [Piedmont Group of Atlanta](http://http://www.thepiedmontgroupofatlanta.com/)
+* [Schultz Collins Lawson Chambers](http://www.schultzcollins.com)
+* [KG Advisors](http://www.kgadvisors.com)
+* [Florida LPL Advisor](http://www.floridalpladvisor.com)
+* [Rose Greene](http://www.rosegreene.com)
+* [Fifth Avenue Financial](http://www.fifthavenuefinancial.com)
+
+Broker Dealers:
+
+* Mass Mutual
+* LPL Financial
+* Fidelity Investments
+* Jefferson Pilot
+* Raymond James Company
