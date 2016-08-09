@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Al Porotesano
 permalink: /about/
 ---
 
@@ -69,10 +69,11 @@ My freelancing gigs were a mixture of hits and misses. I'd work on building mobi
 
 Once in a while, I'll take a freelancing website or mobile project right now while i'm earning income as a background actor with **Central Casting** and **Sande Alessi Casting**. I could work on the set with my laptop until the Director calls for me to work on background. So far, I've only worked on Con Man season 2, American Horror Story, and Let's Make A Deal. This could be a great buildup for my IMDB profile later this year.
 
-| Languages: | C#, ASP.NET, javascript, python, ruby, java | 
-| Platforms: | Amazon Web Services, IBM Bluemix | 
-| Frameworks: | .net framework, eclipse.js | 
-| Databases: | mySQL, mongojs, PostgreSQL | 
-| Content Management Systems: | AdvisorSquare, Ektron, Jekyll, Drupal, keystone.js | 
-| Compliation Environments: | .net framework, node.js |
+| Languages: | C#, ASP.NET, javascript, python, ruby, java  
+| Platforms: | Amazon Web Services, IBM Bluemix 
+| Frameworks: | .net framework, eclipse.js 
+| Databases: | mySQL, mongojs, PostgreSQL  
+| Content Management Systems: | AdvisorSquare, Ektron, Jekyll, Drupal, keystone.js 
+| Compliation Environments: | .net framework, node.js 
+
 
