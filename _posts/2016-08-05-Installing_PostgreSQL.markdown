@@ -19,6 +19,7 @@ First, I add PostgreSQL repository in my system.
 [Ubuntu includes PostgreSQL by default](https://www.postgresql.org/download/linux/ubuntu/). So that basically means you don't have to use the line apt-get install postgresql-9.4 anywhere in this tutorial. But, if you're using some other Linux distro like arch (on my older laptop, yes), you'd have to use that line later.
 
 > $ sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
+
 > $ wget -q https://www.postgresql.org/media/keys/ACCC4CF8.asc -O - | sudo apt-key add -
 
 ## Step 2. Install PostgreSQL ##
@@ -26,6 +27,7 @@ First, I add PostgreSQL repository in my system.
 Second, Install the latest PostgreSQL server in my system using these commands.
 
 > $ sudo apt-get update
+
 > $ sudo apt-get install postgresql postgresql-contrib
 
 ## Step 3. Connect to PostgreSQL ##
@@ -33,29 +35,19 @@ Second, Install the latest PostgreSQL server in my system using these commands.
 Finally, we connect our postgres server and practice talking to it later.
 
 > $ sudo su - postgres
+
 > $ psql
+
 > postgres-# conninfo
 
 ## step 4. Disconnect postgresql ##
 
 > postgres-# \q
+
 > postgres@linux:~$ *on your keyboard type* Control & D \* or apple-command & D if you roll on a mac \*
+
 > postgres@linux:~$ logout
 
-And that's a wrap. Unless you want to torture yourself at disconnecting postgresql like this:
-
-quit()
-quit
-exit()
-exit
-q
-q()
-!q
-^C
-help
-Alt + Tab
-google.com
-Quit PSQL
-\q
+And that's a wrap. 
 
 Good luck talking to PostgreSQL. That's next.
