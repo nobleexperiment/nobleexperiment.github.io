@@ -4,6 +4,13 @@ title: About Al Porotesano
 permalink: /about/
 ---
 
+| Languages: | C#, ASP.NET, javascript, python, ruby, java  |
+| Platforms: | Amazon Web Services, IBM Bluemix |
+| Frameworks: | .net framework, eclipse.js |
+| Databases: | mySQL, mongojs, PostgreSQL  |
+| Content Management Systems: | AdvisorSquare, Ektron, Jekyll, Drupal, keystone.js |
+| Compliation Environments: | .net framework, node.js |
+
 I'm Al Porotesano, and this is my historical timeline:
 
 - 1995 - 2001: Education & Starting Up
@@ -68,12 +75,3 @@ I spent close to two months from September 2015 to volunteer at the **mangrove s
 My freelancing gigs were a mixture of hits and misses. I'd work on building mobile applications using wireframes on an open-source app called Pencil. It's good and does the job for graphic interfaces if I'm going to build a template. The mobile applications I worked with in the past are from young college students who aren't technically inclined to assemble algorithms but know this can be executed with a workable demo and a few client feedback loops. In San Diego, I worked with my friends from UCLA to startup a valet parking mobile app service. They had the mentorship from a veteran who worked on several local startups in the San Diego area supported by the San Diego workspace. The funding wasn't available to pursue the project in time. I worked with a Beverly Hills based auctioneering house and spent a year researching the Aucitoneering operations at Chait Gallery. I was brought in to build an Open Enterprise Application similar to Open ERP for Auction Houses. I couldn't finish the project. I needed development help and assistance, but the project was far greater in scope to take in a short period of time with a team of two or three people that included myself.
 
 Once in a while, I'll take a freelancing website or mobile project right now while i'm earning income as a background actor with **Central Casting** and **Sande Alessi Casting**. I could work on the set with my laptop until the Director calls for me to work on background. So far, I've only worked on Con Man season 2, American Horror Story, and Let's Make A Deal. This could be a great buildup for my IMDB profile later this year.
-
-| Languages: | C#, ASP.NET, javascript, python, ruby, java  
-| Platforms: | Amazon Web Services, IBM Bluemix 
-| Frameworks: | .net framework, eclipse.js 
-| Databases: | mySQL, mongojs, PostgreSQL  
-| Content Management Systems: | AdvisorSquare, Ektron, Jekyll, Drupal, keystone.js 
-| Compliation Environments: | .net framework, node.js 
-
-
