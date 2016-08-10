@@ -67,9 +67,9 @@ On Janurary 2012, **Symantec** bought LiveOffice for $120 million. I was an inte
 
 Smarsh was a direct competitor of LiveOffice when they started ten years before acquiring AdvisorSquare as a Dell-funded start-up. Smarsh had a bigger picture of archiving and auditing for the Financial Industry, they wanted to "archive everything". It's fitting for their marketing slogan at the time. I'd commute between Los Angeles, New York, and their headquarters in Portland, Oregon in my brief year-long tenure there.
 
-Smarsh left **Dell** in 2013 to become a private company funded by round of investors and venture capital funds. They aggressively grew in one year with the expectations of doubling their revenues in 12 months.
+Smarsh left **Dell** in 2013 to become a private company funded by round of investors and venture capital funds. 
 
-I thought their overambitious purchases of similar and smaller archiving applications would put them in a vulnerable spot if the industry is shifting towards Infrastructure as a Service like Amazon Web Services, Google Cloud or IBM Bluemix. I could say this is the cause of scope creep, but what's keeping them active is there are several Broker / Dealers who find it very difficult to switch their archiving tools from the .net framework to an IaaS platform. They may be used to LiveOffice's, Smarsh's or Iron Mountain's archiving apps of the past.....
+I thought their overambitious acquisitions of similar and smaller archiving applications would put them in a vulnerable spot if the industry is shifting towards Infrastructure as a Service like Amazon Web Services, Google Cloud or IBM Bluemix. I could say this is the cause of scope creep, but what's keeping them active is there are several Broker / Dealers who find it very difficult to switch their archiving tools from the .net framework to an IaaS platform. They may be used to LiveOffice's, Smarsh's or Iron Mountain's archiving apps of the past.....
 
 I left Smarsh in 2014 to become a freelance developer. 
 
