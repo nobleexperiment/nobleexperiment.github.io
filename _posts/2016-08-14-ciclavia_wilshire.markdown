@@ -17,7 +17,7 @@ Today was my unusual day of duty because I ditched my bike at CicLAvia for Pokem
 
 ![me myself and beautiful I](https://c5.staticflickr.com/9/8079/28946612252_27c979902e_c.jpg)
 
-*** Churches are the unsung heroes of CicLAvia ***
+## Churches are the unsung heroes of CicLAvia ##
 
 I am always greatful for the churches and their youth groups on the routes. At the front of the [Immannuel Presbyterian Church of Wilshire](http://immanuelpres.org/en_US/), They gave free water bottles to keep cyclists hydrated at CicLAvia under the hot August Sun. 
 
