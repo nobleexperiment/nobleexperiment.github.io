@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Korean Churches are the Heroes of CicLAvia"
+title:  "The Heroes of CicLAvia"
 date:   2016-08-17 09:10:11 -0700
 categories: Ciclavia Wilshire
 ---
