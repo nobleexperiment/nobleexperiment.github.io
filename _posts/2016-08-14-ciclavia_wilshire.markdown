@@ -5,6 +5,7 @@ date:   2016-08-17 09:10:11 -0700
 categories: Ciclavia Wilshire
 ---
 **by Al Porotesano**
+**[photos by Al Porotesano](https://flic.kr/s/aHskFaMF1A)**
 
 ![ciclavia @ Wilshire](https://c7.staticflickr.com/9/8274/28924617342_0f9235505d_c.jpg)
 
