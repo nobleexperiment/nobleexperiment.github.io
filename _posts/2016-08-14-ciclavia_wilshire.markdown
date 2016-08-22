@@ -31,4 +31,8 @@ I am always greatful for the churches and their youth groups on the routes. At t
 
 ** Thank you [Immannuel Presbyterian Church of Wilshire](http://immanuelpres.org/en_US/) for your water bottles and your generous support to CicLAvia and your community ** I don't know what we'll do without you, but Jesus loves you and so do I :)
 
+## Did I catch any Pokemon at Koreatown? ##
+
+Just the typical ekans, pidgeys, and rattas. I hatched a Sandshrew from my 5k egg and two rattas from my 2k eggs walking on Wilshire Blvd to Macarthur Park and back. The Upside of my walk: Found a Schyther nest at Lafayette Park and collected over 100 pokeballs. Downside: Compared to my confines of Long Beach at the Pike to Shoreline park where that lagoon is a pokemon zoo, it's a disappointment.
+
 - Al Porotesano
