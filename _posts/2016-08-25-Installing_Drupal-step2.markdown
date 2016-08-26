@@ -11,7 +11,7 @@ I have this post in mind for those of us in the homeless app project using drupa
 ### Steps ###
 
 	1. Install Apache & PHP
-	**2. Install & Configure MySQL database**
+	>> 2. Install & Configure MySQL database <<
 	3. Install & Configure SSL
 	4. Configure the Apache VirtualHost
 	5. Install & Configure Drupal 8
