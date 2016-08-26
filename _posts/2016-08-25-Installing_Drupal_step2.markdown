@@ -6,7 +6,7 @@ categories: Hackathon Homeless Drupal
 ---
 **by Al Porotesano**
 
-I have this post in mind for those of us in the homeless app project using drupal. So I'm going to assume you read step one, [if not go back to step one](/2016/08/24/Installing_Drupal_step1.html).
+I have this post in mind for those of us in the homeless app project using drupal. So I'm going to assume you read step one, [if not go back to step one](2016-08-21-Installing_Drupal_step1.markdown).
 
 ### Steps ###
 
