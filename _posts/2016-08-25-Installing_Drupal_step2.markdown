@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing Drupal: Step 2 - Install & Configure MySQL database"
-date:   2016-08-26 01:10:11 -0700
+date:   2016-08-25 01:10:11 -0700
 categories: Hackathon Homeless Drupal
 ---
 **by Al Porotesano**
@@ -45,7 +45,7 @@ $ 	apt-get install mysql-server mysql-client -y
 
 MySQL will ask you to create a new password. So go create one.
 
-[mysql configuration](http://i.imgur.com/stjKaPV.png)
+![mysql configuration](http://i.imgur.com/stjKaPV.png)
 
 *Log in as Root*
 
@@ -65,7 +65,7 @@ mysql> 	exit
 ```
 Your terminal should look like my screenshot:
 
-[step 2: granting your new drupal database privileges to your new drupal user before installing drupal.](http://i.imgur.com/uJA4qfE.png)
+![step 2: granting your new drupal database privileges to your new drupal user before installing drupal.](http://i.imgur.com/uJA4qfE.png)
 
 This completes Step #2
 
