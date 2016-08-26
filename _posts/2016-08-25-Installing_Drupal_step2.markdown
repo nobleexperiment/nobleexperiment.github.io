@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing Drupal: Step 2 - Install & Configure MySQL database"
-date:   2016-08-25 09:10:11 -0700
+date:   2016-08-26 01:10:11 -0700
 categories: Hackathon Homeless Drupal
 ---
 **by Al Porotesano**
