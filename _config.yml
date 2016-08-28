@@ -14,7 +14,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: nobleexperiment
 github_username:  nobleexperiment
-
+flickr:
+  enabled:         yes
+  cache_dir:       ./_cache/flickr
+  api_key:         839452b9f95cb79fb40900c90b7e2f12
+  shared_secret:   05c6b3c5fe6a5c9f
+  auth_token: 
 # Build settings
 markdown: kramdown
 
