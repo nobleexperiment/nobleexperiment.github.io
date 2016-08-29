@@ -9,7 +9,7 @@ categories: Hackathon Homeless Drupal
 I have this post in mind for those of us in the homeless app project using drupal. The first two steps are linked in the table of contents aka steps:
 
 | 		|  Steps |
-|----------|:-------------:|
+|:----------|-------------:|
 | *1*	| [Install Apache & PHP](http://nobleexperiment.github.io/hackathon/homeless/drupal/2016/08/24/Installing_Drupal_step1.html) |
 | *2*	| [Install & Configure MySQL database](http://nobleexperiment.github.io/hackathon/homeless/drupal/2016/08/25/Installing_Drupal_step2.html) |
 | *3*	| >> *Install & Configure SSL* << |
