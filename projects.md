@@ -32,5 +32,8 @@ Broker Dealers, Independent Brokerage Dealers, and Financial Associations:
 * Fidelity Investments
 * Jefferson Pilot
 * Raymond James Company
+* ING Advisors
+* Wells Fargo Network of Financial Advisors
+* Ameriprise Financial
 * AICPA
 * FINRA
