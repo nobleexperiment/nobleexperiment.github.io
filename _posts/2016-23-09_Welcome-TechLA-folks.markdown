@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome Tech LA startup folks :)"
+title:  "Welcome Tech LA startup folks"
 date:   2016-23-09 13:13:31 -0700
 categories: LAtechstartup
 ---
+
 The Pleasure and The Privilege is mine to meet everyone of you.
 
 I'm a struggling freelance developer and actor armed with nearly 20 years of self-taught experience in web development, mobile and cloud application development and operations, network and operations security with creative flair in design and acting. I'm also a freelance writer engaging in conversational topics and interests.
