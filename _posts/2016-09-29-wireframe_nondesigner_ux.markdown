@@ -20,8 +20,6 @@ I used three layout ideas for mobile and admin users on the Pencil App:
 
 ## Mobile Users ##
 
-___
-
 ### Mobile Phone ### 
 
 ![Mobile Phone](https://c4.staticflickr.com/8/7784/29219115563_f521298db3_b.jpg "Mobile UX - Al Porotesano")
@@ -50,7 +48,9 @@ The Admin uses our app hosted on AWS or some Platform/Inrastructure as a service
 
 ___
 
-** Outlook **
+
+**Outlook**
+
 
 This is the profile part of the homeless app I was working on. It's my participation, but I wasn't chosen to do so. We had 10 other UX designers who wanted to take the interface part of the project. I had the fortunate task making the application functional using the Drupal CMS framework (assigned to us).
 
