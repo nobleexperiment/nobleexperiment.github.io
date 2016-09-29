@@ -20,6 +20,8 @@ I used three layout ideas for mobile and admin users on the Pencil App:
 
 ## Mobile Users ##
 
+---
+
 ### Mobile Phone ### 
 
 ![Mobile Phone](https://c4.staticflickr.com/8/7784/29219115563_f521298db3_b.jpg "Mobile UX - Al Porotesano")
