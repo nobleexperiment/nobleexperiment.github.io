@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Things to do in Denver when you're unemp..er..Freelancing"
+date:   2016-10-17 09:10:11 -0700
+categories: Denver
+---
+**by Al Porotesano**
+
+I'm stuck in Denver until Election Day. It's funny how I got here.
+
+My sister works at the Denver suburb of Centennial, Colorado and it's all I visualized of an All-American Suburbia. I'm surrounded with nature's open spaces, mini-high rises, office parks or campuses, superstores, shopping centers, franchised restauraunts, and that's all within the stretch of Centennial's Arapahoe Road. That eight lane street of commercialism most dystopian mid-life crisis movies are based upon like American Beauty, Revolutionary Road, or Up In The Air. Consider my cosmopolitan perspective from my hometown of Los Angeles where I'm used to the convergence of chaos and glamour, it's an alienating perspective.
+
+Back home in Los Angeles, trying to return to the startup grind is a mad world of one-up marketing. It's not enough to showcase my codesetting skils on github. It's not enough to market yourself with a few talks at a few tech/startup meetups in Santa Monica or the Valley. It's not even enough to network from previous startups. Where you network matters enough to get stable gigs from a network of angels and venture capital groups. It's how I see some former colleagues from my previous startups jump from one startup to an another after their rounds of funding and revenue streams dry up to repeat that same grind. Except it's not a template management system we'd see based on some six sigma teams' fortune 500 firms of past. It's assembled to an unssupecting startup looking for funding as a shiny and glossy package. Like a set of toys assembled with consultants, process managers, business planners, developers, and management teams whose assembly is not like building a fort with legos, but not exactly fighting bad guys with interchangeable parts of plastic weapons either.
+
+My mother. God bless her. Her worries hit critical mass. If i'm not working for one of my clients in Los Angeles, i'm working on the set of a show as a background actor. It was her punch of the panic button that put me in Denver. If I'm on the couch with my laptop at her home, i'm not wasting my time. But to her, it is. I could show her pictures of startup cultures of workers writing from the couch and she'll deflect it like a priest vexing demons away from a poor sap during an exorcism. I could go on with this generational gap of work ethics versus appearances, but it's hard to penetrate the forcefield of the deathstar with lasers flying out of my winnebago with wings.
+
+Being in Denver, a week passes by and i'm immediately blown away by the open engagement of Denver tech meetups. The UX meetup I went to last thursday was much more engaging than any meetups hosted by [js.la](http://js.la). Denver has a lot of meetups where the alienated introverts become members of a community networking based on similar interests. Everybody here is friendly, much more so than in Los Angeles I think. Although I have a lot of friends back home, there's this sense of open community in Denver than what I observed at Los Angeles and it's silicon beaches and studios. The culture between the two startup cities are similar if not parallel. I'm contrasting the two cities through an observation to see there's not much difference between Denver and LA. I'd have to think if my origins flipped, where my hometown is from Denver instead of LA, the barriers of entry would be more harder to penetrate and exhausting for the soul given how massive LA is.
+
+I'll be here for a while and i'm sadly going to miss out a lot of events going on back home. I just want my mom to know there's no such thing as "job stabillity" in this anamorphic world reflecting past experiences. They'll be rewatchable should we see a period piece of how punching in the clock and plopping in front of the couch to wind down the 8-hour working day is relaxing nostalgia to our minds. Maybe I'd be wrong if her goals for me to find that stability in Denver works, but I'm very pragmatic to believe this could work based on dependables and variations to make a rational decision. The world is a flexible marketplace, and we'll have to find ways to get by instead of relying on a machine that is no longer sustainable. 
+
+How do I tell mom the "stable and secure" economy is replaced by the "sell yourself" economy? I'm trying to tell her the answer but she's deflecting my voice and it's frustrating.
+
