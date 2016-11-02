@@ -16,7 +16,7 @@ Basketball is my favorite fantasy sport out of all the major sports. I've played
 
 I didn't count injuries as a factor. Injuries are risks professional players take as the season progresses. Average Draft Position (ADP) yields owners' projections of injuries as factors of a player they choose to draft.
 
-###What's an Average Draft Position (ADP)?
+### What's an Average Draft Position (ADP)?
 
 Average Draft Position renders when you can expect a player to be picked across a fantasy sports landscape. 
 
@@ -40,7 +40,7 @@ So something caught my eye last weekend when I saw [Julyan Stone](http://www.rot
 
 I want to break this down before I spend an entire week (I have free time in Denver) looking at fantasy sports bots.
 
-###Did Julyan Stone benefit from fantasy bots?
+### Did Julyan Stone benefit from fantasy bots?
 
 Most bots are designed to monitor activities from websites, messaging forums, purchases, bids, anything to accumulate data to trigger point to point ping responses. If i'm building a reddit bot, I'm going to program it for the following:
 
@@ -56,7 +56,7 @@ If I'm going to program an ADP bot for fantasy drafts, I'm going to use it for a
 
 Is there a method for that madness? Is somebody trolling us to believe Julyan Stone is the real deal? Is somebody creating bots to increase his value in fantasy basketball despite the fact he was [sadly relesaed by the Indiana Pacers before the season began](http://www.nba.com/pacers/news/pacers-waive-jeremy-evans-and-julyan-stone/)? 
 
-###Why would bots help fantasy leagues?
+### Why would bots help fantasy leagues?
 
 Fantasy sports players vary from die-hard sports fans to casual fans who play with the data for fun. They want to have an edge over their opponent and it's a competitive environment providing trash talk and boasting against their opponents. They use the waiver wire to pick their "flavor of the week" as an edge to win. Victory is the orgasmic satisfaction, especially in fantasy football.
 
@@ -64,7 +64,7 @@ Microsoft and Yahoo built [fantasy football bots](http://venturebeat.com/2016/10
 
 That's why bots would help players in fantasy leagues. You don't want to waste 5 hours debating if Matt Ryan is a better quarterback than Phillip Rivers. Bots would build the research, you just spend a minimum of 5 seconds to make a decision from your smartphone.
 
-###Stop picking on poor Julyan
+### Stop picking on poor Julyan
 
 I saw his preseason games in Las Vegas and he's a great player. He's a professional basketball player who will be in a team this season. He stood out in the drafts this year for the wrong reason and that's why he's the case study for proposing better fantasy sports analytics.
 
@@ -76,7 +76,7 @@ Whatever the case, I think these kinds of glitches warrant better policies for i
 
 [Javale McGee on the other hand](https://www.youtube.com/watch?v=f69IDWEyBek), well at least he's getting better.
 
-###Is Average Draft Position Bullshit?
+### Is Average Draft Position Bullshit?
 
 Consider ADP's algorithmn still includes players who are fighting for that final roster spot otherwise they'll be released or sent to the development league, like Julyan Stone. ADP also includes players who are retired or on the verge of retiring due to injuries, like Chris Bosh of the Miami Heat.
 
