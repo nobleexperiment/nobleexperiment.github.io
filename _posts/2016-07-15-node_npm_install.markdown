@@ -47,7 +47,7 @@ Maybe I do need to just install Node.js after all.
 
 I'm on [nodejs.org](https://www.nodejs.org) to download this thing thinking, "ok, someone thought of us noobs with a simple download, right! I'm gonna download this file, click install, and the computer is gonna do it all by itself for me."
 
-Then I got moded. I thought wrong. I'm in a directory of links saying to myself "what the fuck is an x86?", "What psychopath thought we'd understand 32-bit or 64-bit as if we know how to drive the difference between a Ford Taurus or a Toyota Camry?"
+Nope. I'm in a directory of links saying to myself "what's an x86?", "What psychopath thought we'd understand 32-bit or 64-bit as if we know how to drive the difference between a Ford Taurus or a Toyota Camry?"
 
 You'll google for answers and you'll think one is right. Or not. You'll research for a million pages that have the same instructions:
 	`sudo apt-get install nodejs`
@@ -70,7 +70,7 @@ Still in Terminal?
 	3. save it on your Download folder (People smarter than me know they can download it anywhere)
 2. `cd Download`
 3. `ls Download`
-	1. list of files in Download folder should show *node-v4.4.7-linux-x86.tar.xz* (latest version when I was writing this in July 2016)
+	1. list of files in Download folder should show *node-v4.4.7-linux-x86.tar.xz* ( node v.4.4.7 was the latest version when I was writing this in July 2016 | I updated post on March 2017 to reflect the current updates with node )
 4. `sudo apt-get install xz-utils`
 5. `tar -C /usr/local --strip-components l -xjf node-v4.4.7-linux-x86.tar.xz`
 6. `ls -l /usr/local/bin/node`
@@ -91,29 +91,25 @@ Follow the steps if this is your first time:
 3. `sudo apt install node-express-generator`
 3. `express [name of project]`
 4. `cd [name of project] && npm [name of project]`
-5. `npm install -g express`
-6. `npm install -g express-generator`
-7. `ls`
+6. `ls`
 	[displays list of modules and .js files on project]
-8. `node app`
+7. `node app`
 	*you should see:* 
 	Express server listening on port 3000 in development mode
-9. `firefox`
+8. `firefox`
 	*type localhost:3000 on my url. test. dab. test. blah. done*
-10. *Press Shift and C to exit localhost on terminal*
+9. *Press Shift and C to exit localhost on terminal*
 
 If you're going to do this continouously:
 
 1. `express [name of project]`
 2. `cd [name of project] && npm [name of project]`
-3. `npm install -g express`
-4. `npm install -g express-generator`
-5. `node app` or `npm start`
+3. `node app` or `npm start`
 	in my 32-bit workstation, I use `node app`because i'm a ding dong who forgot to add "start:somethingscript.coffee" on my package.json file. However, in my other workstation `npm start` just defaults the launch from server.js. I'm guessing because I haven't changed my package.json scripts yet unless I have to.
-6. `firefox`
+4. `firefox`
 	*enter localhost:3000*
 
-Not sure what IDE app you use to write your project, but Sublime text is great because it's free and i'm poor.
+Not sure what IDE app you use to write your project, but [VS Code](https://code.visualstudio.com/) is great because it's free and i'm poor.
 
 - Al Porotesano
 
